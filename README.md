@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TooFarGone
+- 👋 Hi, I’m @Lukas
 - 👀 I’m interested in ... Programming
 - 🌱 I’m currently learning ... GitHub
 - 💞️ I’m looking to collaborate on ... A new project
